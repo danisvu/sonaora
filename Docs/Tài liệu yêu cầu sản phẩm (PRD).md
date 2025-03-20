@@ -1,14 +1,14 @@
 ## THÔNG TIN TÀI LIỆU
 
-**Phiên bản:** 1.0
+**Phiên bản:** 1.0
 
-**Ngày tạo:** 20/03/2025
+**Ngày tạo:** 20/03/2025
 
-**Người tạo:** [PM Name]
+**Người tạo:** [PM Name]
 
-**Trạng thái:** Bản thảo
+**Trạng thái:** Bản thảo
 
-**Đối tượng:** Ban quản lý dự án, Team phát triển, Các bên liên quan
+**Đối tượng:** Ban quản lý dự án, Team phát triển, Các bên liên quan
 
 ## 1. GIỚI THIỆU
 
@@ -35,11 +35,11 @@ Số Nào Ra hướng tới việc trở thành ứng dụng hàng đầu tại 
 
 ### 2.2. Mô tả sản phẩm
 
-Số Nào Ra là ứng dụng di động đa nền tảng (iOS và Android) phát triển bằng Flutter, hỗ trợ người chơi xổ số tại Việt Nam quản lý hoạt động chơi xổ số hiệu quả hơn. Ứng dụng cung cấp tính năng xem kết quả xổ số miền Nam và Vietlott theo thời gian thực, lịch quay thưởng, nhập và quản lý vé số, cùng với công cụ dò vé tự động.
+Số Nào Ra là ứng dụng di động đa nền tảng (iOS và Android) phát triển bằng Flutter, hỗ trợ người chơi xổ số tại Việt Nam quản lý hoạt động chơi xổ số hiệu quả hơn. Ứng dụng cung cấp tính năng xem kết quả xổ số miền Nam và Vietlott theo thời gian thực, lịch quay thưởng, nhập và quản lý vé số, cùng với công cụ dò vé tự động. Ngoài ra, ứng dụng sẽ hỗ trợ cá nhân hóa trải nghiệm thông qua tùy chỉnh giao diện theo phong thủy và tùy biến menu yêu thích theo sở thích của người dùng.
 
 ### 2.3. Định vị sản phẩm
 
-Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra định vị là ứng dụng toàn diện duy nhất phục vụ cả người chơi xổ số truyền thống và Vietlott, với điểm khác biệt là giao diện thân thiện với mọi độ tuổi và khả năng quản lý vé số thông minh. Đặc biệt, ứng dụng sẽ là nền tảng tích hợp nhiều loại hình xổ số, khác với các ứng dụng hiện tại thường chỉ tập trung vào một loại hình.
+Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra định vị là ứng dụng toàn diện duy nhất phục vụ cả người chơi xổ số truyền thống và Vietlott, với điểm khác biệt là giao diện thân thiện với mọi độ tuổi và khả năng quản lý vé số thông minh. Đặc biệt, ứng dụng sẽ là nền tảng tích hợp nhiều loại hình xổ số, khác với các ứng dụng hiện tại thường chỉ tập trung vào một loại hình. Khả năng cá nhân hóa theo phong thủy cũng là một điểm độc đáo giúp Số Nào Ra khác biệt hoàn toàn trên thị trường.
 
 ### 2.4. Mục tiêu kinh doanh
 
@@ -56,17 +56,18 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 - Xổ số miền Nam chiếm 93,3% thị phần toàn quốc, là thị trường mục tiêu chính của Số Nào Ra
 - Khoảng 60-70 triệu người trưởng thành tại Việt Nam là đối tượng tiềm năng của thị trường xổ số
 - Tỷ lệ sở hữu smartphone tại Việt Nam đạt trên 70%, tạo điều kiện thuận lợi cho ứng dụng di động
+- Các yếu tố tâm linh và phong thủy có ảnh hưởng lớn đến việc lựa chọn số của người chơi xổ số tại Việt Nam
 
 ### 3.2. Phân tích đối thủ
 
 1. **Vietlott SMS (Ứng dụng chính thức của Vietlott)**
     - Điểm mạnh: Hỗ trợ mua vé Vietlott trực tuyến, độ tin cậy cao
-    - Điểm yếu: Chỉ hỗ trợ xổ số Vietlott, giao diện chưa thân thiện với người dùng lớn tuổi
-    - Điểm khác biệt với SoNaoRa: Chúng ta hỗ trợ cả xổ số truyền thống và Vietlott
+    - Điểm yếu: Chỉ hỗ trợ xổ số Vietlott, giao diện chưa thân thiện với người dùng lớn tuổi, không có tính năng cá nhân hóa theo phong thủy
+    - Điểm khác biệt với SoNaoRa: Chúng ta hỗ trợ cả xổ số truyền thống và Vietlott, tùy chỉnh giao diện theo phong thủy
 2. **Các ứng dụng xem kết quả xổ số hiện có**
     - Điểm mạnh: Đã có người dùng, giao diện đơn giản
-    - Điểm yếu: Chỉ tập trung vào xem kết quả, thiếu tính năng quản lý vé và dò vé tự động
-    - Điểm khác biệt với SoNaoRa: Chúng ta cung cấp giải pháp toàn diện để quản lý hoạt động chơi xổ số
+    - Điểm yếu: Chỉ tập trung vào xem kết quả, thiếu tính năng quản lý vé và dò vé tự động, không có cá nhân hóa
+    - Điểm khác biệt với SoNaoRa: Chúng ta cung cấp giải pháp toàn diện để quản lý hoạt động chơi xổ số, có khả năng cá nhân hóa cao
 3. **Trang web xem kết quả xổ số**
     - Điểm mạnh: Dễ truy cập, không cần cài đặt ứng dụng
     - Điểm yếu: Trải nghiệm mobile kém, không có tính năng quản lý vé số cá nhân
@@ -79,6 +80,8 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 3. Khả năng quản lý vé số thông minh với tính năng nhập thủ công và dò vé tự động
 4. Nền tảng kỹ thuật vững chắc cho việc phát triển tính năng OCR nhận dạng vé số trong tương lai
 5. Khả năng xuất dữ liệu để phân tích cá nhân hoặc sử dụng với các mô hình AI
+6. Tính năng tùy chỉnh giao diện theo phong thủy độc đáo, phù hợp với văn hóa và tâm lý người Việt
+7. Khả năng cá nhân hóa cao với menu yêu thích theo sở thích của người dùng
 
 ## 4. ĐỐI TƯỢNG NGƯỜI DÙNG
 
@@ -86,81 +89,84 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 4.1.1. Người chơi xổ số truyền thống
 
-- **Đặc điểm nhân khẩu học:** 35-60 tuổi, thu nhập trung bình, thường xuyên mua vé số truyền thống
-- **Đặc điểm công nghệ:** Ít thành thạo công nghệ, ưa thích giao diện đơn giản
-- **Nhu cầu/vấn đề:** Muốn dễ dàng theo dõi kết quả xổ số, quản lý vé đã mua, không bỏ lỡ cơ hội trúng thưởng
-- **Kỳ vọng:** Giao diện đơn giản, dễ sử dụng, thông báo kết quả nhanh chóng, chính xác
+- **Đặc điểm nhân khẩu học:** 35-60 tuổi, thu nhập trung bình, thường xuyên mua vé số truyền thống
+- **Đặc điểm công nghệ:** Ít thành thạo công nghệ, ưa thích giao diện đơn giản
+- **Nhu cầu/vấn đề:** Muốn dễ dàng theo dõi kết quả xổ số, quản lý vé đã mua, không bỏ lỡ cơ hội trúng thưởng, tin vào yếu tố phong thủy khi chọn số
+- **Kỳ vọng:** Giao diện đơn giản, dễ sử dụng, thông báo kết quả nhanh chóng, chính xác, có các yếu tố phong thủy hỗ trợ chọn số
 
 ### 4.1.2. Người chơi xổ số điện toán Vietlott
 
-- **Đặc điểm nhân khẩu học:** 25-45 tuổi, thu nhập khá, sống tại thành thị
-- **Đặc điểm công nghệ:** Thành thạo công nghệ, sử dụng smartphone thường xuyên
-- **Nhu cầu/vấn đề:** Theo dõi jackpot lớn, quản lý nhiều vé Vietlott
-- **Kỳ vọng:** Thông tin chính xác, cập nhật nhanh, công cụ quản lý vé dễ sử dụng
+- **Đặc điểm nhân khẩu học:** 25-45 tuổi, thu nhập khá, sống tại thành thị
+- **Đặc điểm công nghệ:** Thành thạo công nghệ, sử dụng smartphone thường xuyên
+- **Nhu cầu/vấn đề:** Theo dõi jackpot lớn, quản lý nhiều vé Vietlott, muốn trải nghiệm cá nhân hóa
+- **Kỳ vọng:** Thông tin chính xác, cập nhật nhanh, công cụ quản lý vé dễ sử dụng, giao diện hiện đại có thể tùy chỉnh
 
 ### 4.1.3. Người chơi mới
 
-- **Đặc điểm nhân khẩu học:** 18-30 tuổi, sinh viên hoặc người đi làm trẻ
-- **Đặc điểm công nghệ:** Rất thành thạo công nghệ, thích trải nghiệm mới
-- **Nhu cầu/vấn đề:** Tìm hiểu cách chơi xổ số, muốn trải nghiệm thử cơ hội
-- **Kỳ vọng:** Giao diện hiện đại, hướng dẫn dễ hiểu, thông tin đầy đủ về các loại hình xổ số
+- **Đặc điểm nhân khẩu học:** 18-30 tuổi, sinh viên hoặc người đi làm trẻ
+- **Đặc điểm công nghệ:** Rất thành thạo công nghệ, thích trải nghiệm mới
+- **Nhu cầu/vấn đề:** Tìm hiểu cách chơi xổ số, muốn trải nghiệm thử cơ hội, thích ứng dụng có thể cá nhân hóa cao
+- **Kỳ vọng:** Giao diện hiện đại, hướng dẫn dễ hiểu, thông tin đầy đủ về các loại hình xổ số, khả năng tùy biến cao
 
 ### 4.2. User Personas
 
 ### 4.2.1. Persona 1: Ông Tuấn - Người chơi xổ số truyền thống
 
-- **Tuổi:** 55
-- **Nghề nghiệp:** Cán bộ hưu trí
-- **Địa điểm:** TP.HCM
-- **Hành vi chơi xổ số:** Mua 2-3 vé số truyền thống mỗi ngày, dò kết quả qua TV hoặc báo
-- **Thách thức:** Khó quản lý vé đã mua, đôi khi quên dò, bỏ lỡ cơ hội trúng thưởng
-- **Mục tiêu:** Muốn một cách dễ dàng để theo dõi vé đã mua và kết quả xổ số
+- **Tuổi:** 55
+- **Nghề nghiệp:** Cán bộ hưu trí
+- **Địa điểm:** TP.HCM
+- **Hành vi chơi xổ số:** Mua 2-3 vé số truyền thống mỗi ngày, dò kết quả qua TV hoặc báo, tin vào số may mắn theo tuổi
+- **Thách thức:** Khó quản lý vé đã mua, đôi khi quên dò, bỏ lỡ cơ hội trúng thưởng, muốn biết số nào hợp tuổi
+- **Mục tiêu:** Muốn một cách dễ dàng để theo dõi vé đã mua và kết quả xổ số, ứng dụng có màu sắc hợp phong thủy
 
 ### 4.2.2. Persona 2: Chị Hương - Người chơi Vietlott
 
-- **Tuổi:** 35
-- **Nghề nghiệp:** Nhân viên văn phòng
-- **Địa điểm:** Hà Nội
-- **Hành vi chơi xổ số:** Mua vé Mega 6/45 và Power 6/55 mỗi tuần khi jackpot lớn
-- **Thách thức:** Khó theo dõi nhiều vé cùng lúc, muốn biết jackpot đã lên bao nhiêu
-- **Mục tiêu:** Cần công cụ quản lý nhiều vé Vietlott và thông báo khi jackpot hấp dẫn
+- **Tuổi:** 35
+- **Nghề nghiệp:** Nhân viên văn phòng
+- **Địa điểm:** Hà Nội
+- **Hành vi chơi xổ số:** Mua vé Mega 6/45 và Power 6/55 mỗi tuần khi jackpot lớn
+- **Thách thức:** Khó theo dõi nhiều vé cùng lúc, muốn biết jackpot đã lên bao nhiêu, thích giao diện phù hợp cá nhân
+- **Mục tiêu:** Cần công cụ quản lý nhiều vé Vietlott, thông báo khi jackpot hấp dẫn, và tùy chỉnh ứng dụng theo sở thích
 
 ### 4.2.3. Persona 3: Minh - Người chơi mới
 
-- **Tuổi:** 22
-- **Nghề nghiệp:** Sinh viên
-- **Địa điểm:** Đà Nẵng
-- **Hành vi chơi xổ số:** Mới bắt đầu quan tâm đến xổ số, thỉnh thoảng mua vé để thử vận may
-- **Thách thức:** Chưa hiểu rõ về cách chơi và các loại hình xổ số khác nhau
-- **Mục tiêu:** Muốn tìm hiểu thêm về xổ số và có hướng dẫn rõ ràng cách chơi hiệu quả
+- **Tuổi:** 22
+- **Nghề nghiệp:** Sinh viên
+- **Địa điểm:** Đà Nẵng
+- **Hành vi chơi xổ số:** Mới bắt đầu quan tâm đến xổ số, thỉnh thoảng mua vé để thử vận may
+- **Thách thức:** Chưa hiểu rõ về cách chơi và các loại hình xổ số khác nhau, thích ứng dụng có thể tùy biến theo sở thích
+- **Mục tiêu:** Muốn tìm hiểu thêm về xổ số, có hướng dẫn rõ ràng cách chơi hiệu quả, và tùy chỉnh giao diện theo sở thích cá nhân
 
 ### 4.3. Hành trình người dùng (User Journey)
 
 ### 4.3.1. Hành trình của Ông Tuấn
 
-1. **Khám phá:** Nghe con giới thiệu về ứng dụng Số Nào Ra
-2. **Tải và đăng ký:** Con giúp tải ứng dụng và đăng ký tài khoản
-3. **Học sử dụng:** Tìm hiểu cách xem kết quả xổ số và nhập vé thủ công
-4. **Sử dụng hàng ngày:** Nhập các vé số đã mua và kiểm tra kết quả
-5. **Chia sẻ:** Giới thiệu ứng dụng cho bạn bè cùng tuổi
+1. **Khám phá:** Nghe con giới thiệu về ứng dụng Số Nào Ra
+2. **Tải và đăng ký:** Con giúp tải ứng dụng và đăng ký tài khoản
+3. **Học sử dụng:** Tìm hiểu cách xem kết quả xổ số và nhập vé thủ công
+4. **Cá nhân hóa:** Tùy chỉnh giao diện ứng dụng theo màu sắc hợp tuổi và phong thủy
+5. **Sử dụng hàng ngày:** Nhập các vé số đã mua, kiểm tra kết quả, và xem thông tin xổ số yêu thích
+6. **Chia sẻ:** Giới thiệu ứng dụng cho bạn bè cùng tuổi
 
 ### 4.3.2. Hành trình của Chị Hương
 
-1. **Khám phá:** Tìm kiếm ứng dụng quản lý vé số trên App Store
-2. **Tải và đăng ký:** Tự tải và đăng ký tài khoản
-3. **Khám phá tính năng:** Tập trung vào tính năng xem kết quả Vietlott và quản lý vé
-4. **Sử dụng hàng tuần:** Nhập các vé Vietlott đã mua và theo dõi jackpot
-5. **Phân tích dữ liệu:** Xuất dữ liệu kết quả Vietlott 6 tháng gần nhất kèm prompt về "các số xuất hiện nhiều lần nhất" để phân tích với ChatGPT
-6. **Phản hồi:** Đánh giá ứng dụng và đề xuất tính năng mới
+1. **Khám phá:** Tìm kiếm ứng dụng quản lý vé số trên App Store
+2. **Tải và đăng ký:** Tự tải và đăng ký tài khoản
+3. **Khám phá tính năng:** Tập trung vào tính năng xem kết quả Vietlott và quản lý vé
+4. **Tùy chỉnh:** Thiết lập Power 6/55 là loại hình mặc định và tùy chỉnh giao diện theo sở thích
+5. **Sử dụng hàng tuần:** Nhập các vé Vietlott đã mua và theo dõi jackpot
+6. **Phân tích dữ liệu:** Xuất dữ liệu kết quả Vietlott 6 tháng gần nhất kèm prompt về "các số xuất hiện nhiều lần nhất" để phân tích với ChatGPT
+7. **Phản hồi:** Đánh giá ứng dụng và đề xuất tính năng mới
 
 ### 4.3.3. Hành trình của Minh
 
-1. **Khám phá:** Thấy quảng cáo ứng dụng trên Facebook
-2. **Tải và đăng ký:** Tải ứng dụng và đăng ký bằng tài khoản Google
-3. **Tìm hiểu:** Đọc hướng dẫn về các loại hình xổ số trong ứng dụng
-4. **Thử nghiệm:** Mua vé lần đầu và nhập vào ứng dụng để thử tính năng dò vé
-5. **Phân tích:** Sử dụng tính năng xuất dữ liệu để phân tích xu hướng số với công cụ AI
-6. **Tương tác:** Tiếp tục sử dụng nếu trải nghiệm tốt, hoặc bỏ nếu không thấy giá trị
+1. **Khám phá:** Thấy quảng cáo ứng dụng trên Facebook
+2. **Tải và đăng ký:** Tải ứng dụng và đăng ký bằng tài khoản Google
+3. **Tìm hiểu:** Đọc hướng dẫn về các loại hình xổ số trong ứng dụng
+4. **Tùy biến:** Thử nghiệm các tùy chọn giao diện và thêm Power 6/55 vào menu yêu thích
+5. **Thử nghiệm:** Mua vé lần đầu và nhập vào ứng dụng để thử tính năng dò vé
+6. **Phân tích:** Sử dụng tính năng xuất dữ liệu để phân tích xu hướng số với công cụ AI
+7. **Tương tác:** Tiếp tục sử dụng nếu trải nghiệm tốt, hoặc bỏ nếu không thấy giá trị
 
 ## 5. YÊU CẦU TÍNH NĂNG
 
@@ -168,7 +174,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 5.1.1. Xem kết quả xổ số
 
-- **Mô tả:** Hiển thị kết quả đầy đủ của xổ số miền Nam (21 tỉnh) và Vietlott (Mega 6/45, Power 6/55, Max 3D, Max 4D), cập nhật theo thời gian thực
+- **Mô tả:** Hiển thị kết quả đầy đủ của xổ số miền Nam (21 tỉnh) và Vietlott (Mega 6/45, Power 6/55, Max 3D, Max 4D), cập nhật theo thời gian thực
 - **Yêu cầu chi tiết:**
     - Hiển thị kết quả xổ số miền Nam với đầy đủ các giải từ Đặc biệt đến giải Tám
     - Hiển thị kết quả Vietlott với giá trị jackpot và các giải thưởng khác
@@ -183,7 +189,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 5.1.2. Lịch quay thưởng
 
-- **Mô tả:** Hiển thị lịch quay thưởng chi tiết theo ngày, giờ và đài quay thưởng
+- **Mô tả:** Hiển thị lịch quay thưởng chi tiết theo ngày, giờ và đài quay thưởng
 - **Yêu cầu chi tiết:**
     - Hiển thị lịch quay thưởng của xổ số miền Nam theo từng tỉnh/thành
     - Hiển thị lịch quay thưởng của các loại hình Vietlott
@@ -196,7 +202,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 5.1.3. Thông báo kết quả
 
-- **Mô tả:** Gửi thông báo sau khi có kết quả xổ số
+- **Mô tả:** Gửi thông báo sau khi có kết quả xổ số
 - **Yêu cầu chi tiết:**
     - Gửi thông báo khi có kết quả xổ số miền Nam và Vietlott
     - Cho phép người dùng tùy chỉnh loại thông báo muốn nhận
@@ -208,7 +214,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 5.1.4. Nhập vé thủ công
 
-- **Mô tả:** Giao diện nhập vé trực quan, dễ sử dụng, hỗ trợ nhiều loại vé số
+- **Mô tả:** Giao diện nhập vé trực quan, dễ sử dụng, hỗ trợ nhiều loại vé số
 - **Yêu cầu chi tiết:**
     - Hỗ trợ nhập vé xổ số truyền thống miền Nam
     - Hỗ trợ nhập vé Vietlott (Mega 6/45, Power 6/55, Max 3D, Max 4D)
@@ -222,7 +228,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 5.1.5. Dò vé tự động
 
-- **Mô tả:** Tự động so khớp với kết quả mới nhất, tính toán giải thưởng nếu trúng
+- **Mô tả:** Tự động so khớp với kết quả mới nhất, tính toán giải thưởng nếu trúng
 - **Yêu cầu chi tiết:**
     - Dò vé tự động khi có kết quả mới
     - Tính toán chính xác giải thưởng cho mỗi loại vé
@@ -235,7 +241,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 5.1.6. Quản lý vé đã mua
 
-- **Mô tả:** Lưu trữ và phân loại vé số, hiển thị trạng thái dò và kết quả trúng thưởng
+- **Mô tả:** Lưu trữ và phân loại vé số, hiển thị trạng thái dò và kết quả trúng thưởng
 - **Yêu cầu chi tiết:**
     - Lưu trữ thông tin vé số đã mua theo ngày, loại vé
     - Phân loại vé theo trạng thái (chưa dò, không trúng, đã trúng)
@@ -248,7 +254,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 5.1.7. Đăng ký/đăng nhập
 
-- **Mô tả:** Xác thực qua email hoặc số điện thoại, hỗ trợ đăng nhập qua mạng xã hội
+- **Mô tả:** Xác thực qua email hoặc số điện thoại, hỗ trợ đăng nhập qua mạng xã hội
 - **Yêu cầu chi tiết:**
     - Đăng ký tài khoản bằng email hoặc số điện thoại
     - Hỗ trợ đăng nhập qua Google, Facebook
@@ -263,31 +269,31 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 
 ### 5.2.1. Chụp và nhận dạng vé số bằng AI/OCR
 
-- **Mô tả:** Sử dụng camera để chụp vé số và tự động nhận dạng thông tin
-- **Ưu tiên:** Cao (dự kiến phát triển ngay sau MVP)
-- **Thời gian dự kiến:** Tháng 6/2025
+- **Mô tả:** Sử dụng camera để chụp vé số và tự động nhận dạng thông tin
+- **Ưu tiên:** Cao (dự kiến phát triển ngay sau MVP)
+- **Thời gian dự kiến:** Tháng 6/2025
 
 ### 5.2.2. Thống kê số "nóng"/"lạnh" và biểu đồ trực quan
 
-- **Mô tả:** Phân tích dữ liệu lịch sử để hiển thị xu hướng số xuất hiện
-- **Ưu tiên:** Trung bình
-- **Thời gian dự kiến:** Quý 3/2025
+- **Mô tả:** Phân tích dữ liệu lịch sử để hiển thị xu hướng số xuất hiện
+- **Ưu tiên:** Trung bình
+- **Thời gian dự kiến:** Quý 3/2025
 
 ### 5.2.3. Tính năng cộng đồng cơ bản
 
-- **Mô tả:** Diễn đàn chia sẻ kinh nghiệm và dự đoán giữa người chơi
-- **Ưu tiên:** Trung bình
-- **Thời gian dự kiến:** Quý 3/2025
+- **Mô tả:** Diễn đàn chia sẻ kinh nghiệm và dự đoán giữa người chơi
+- **Ưu tiên:** Trung bình
+- **Thời gian dự kiến:** Quý 3/2025
 
 ### 5.2.4. Hỗ trợ xổ số miền Trung và miền Bắc
 
-- **Mô tả:** Mở rộng hỗ trợ xem kết quả và dò vé cho các khu vực khác
-- **Ưu tiên:** Cao
-- **Thời gian dự kiến:** Quý 4/2025
+- **Mô tả:** Mở rộng hỗ trợ xem kết quả và dò vé cho các khu vực khác
+- **Ưu tiên:** Cao
+- **Thời gian dự kiến:** Quý 4/2025
 
 ### 5.2.5. Xuất dữ liệu và tích hợp với công cụ phân tích
 
-- **Mô tả:** Cho phép người dùng xuất/copy dữ liệu kết quả xổ số kèm theo các prompt được định nghĩa sẵn để sử dụng với các công cụ phân tích bên ngoài và mô hình LLM
+- **Mô tả:** Cho phép người dùng xuất/copy dữ liệu kết quả xổ số kèm theo các prompt được định nghĩa sẵn để sử dụng với các công cụ phân tích bên ngoài và mô hình LLM
 - **Yêu cầu chi tiết:**
     - Cho phép xuất dữ liệu kết quả xổ số theo nhiều định dạng (CSV, JSON, văn bản thuần)
     - Hỗ trợ lọc dữ liệu theo khoảng thời gian (ngày, tuần, tháng, năm)
@@ -301,8 +307,43 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
     - Prompt mẫu phải được tối ưu và kiểm thử để đảm bảo hiệu quả với các mô hình LLM
     - Giao diện xuất dữ liệu phải trực quan, dễ sử dụng
     - Các tùy chọn lọc dữ liệu phải hoạt động chính xác
-- **Ưu tiên:** Cao
-- **Thời gian dự kiến:** Quý 3/2025 (có thể đẩy lên sớm hơn sau khi đánh giá phản hồi từ MVP)
+- **Ưu tiên:** Cao
+- **Thời gian dự kiến:** Quý 3/2025 (có thể đẩy lên sớm hơn sau khi đánh giá phản hồi từ MVP)
+
+### 5.2.6. Tùy chỉnh giao diện theo phong thủy
+
+- **Mô tả:** Cho phép người dùng tùy chỉnh giao diện ứng dụng theo phong thủy, hợp tuổi
+- **Yêu cầu chi tiết:**
+    - Hỗ trợ thay đổi màu sắc giao diện theo phong thủy và mệnh của người dùng (Kim, Mộc, Thủy, Hỏa, Thổ)
+    - Cung cấp bộ sưu tập các theme phong thủy được thiết kế sẵn (ít nhất 5 theme)
+    - Cho phép người dùng thêm hình ảnh linh vật phong thủy vào các vị trí trong ứng dụng
+    - Cung cấp gợi ý màu sắc, phong cách và linh vật phù hợp dựa trên năm sinh của người dùng
+    - Lưu và đồng bộ tùy chỉnh giao diện giữa các thiết bị
+- **Tiêu chí chấp nhận:**
+    - Các theme phong thủy phải được thiết kế chuyên nghiệp và hài hòa
+    - Thay đổi giao diện phải mượt mà, không ảnh hưởng đến hiệu suất ứng dụng
+    - Khả năng quay lại giao diện mặc định một cách dễ dàng
+    - Các tùy chỉnh phong thủy không làm giảm khả năng sử dụng của ứng dụng
+    - Giao diện vẫn đảm bảo đồng nhất khi thay đổi theme
+- **Ưu tiên:** Cao
+- **Thời gian dự kiến:** Quý 3/2025
+
+### 5.2.7. Menu yêu thích và tùy chỉnh loại hình xổ số
+
+- **Mô tả:** Cho phép người dùng tùy chỉnh menu với các loại hình xổ số ưa thích và thiết lập loại hình mặc định
+- **Yêu cầu chi tiết:**
+    - Cho phép người dùng đánh dấu các loại hình xổ số yêu thích (Vietlott, xổ số miền Nam theo tỉnh, v.v.)
+    - Tạo menu yêu thích với các loại hình xổ số người dùng thường xuyên truy cập
+    - Cho phép người dùng thiết lập loại hình xổ số mặc định khi mở ứng dụng
+    - Hỗ trợ sắp xếp lại thứ tự các mục trong menu yêu thích
+    - Đồng bộ hóa tùy chỉnh giữa các thiết bị của người dùng
+- **Tiêu chí chấp nhận:**
+    - Giao diện menu yêu thích trực quan, dễ sử dụng
+    - Thời gian tải màn hình mặc định < 2 giây
+    - Tùy chỉnh menu yêu thích phải được lưu chính xác
+    - Hoạt động mượt mà trên tất cả các thiết bị được hỗ trợ
+- **Ưu tiên:** Cao
+- **Thời gian dự kiến:** Quý 3/2025
 
 ## 6. YÊU CẦU PHI CHỨC NĂNG
 
@@ -313,6 +354,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 - Thời gian tải trang kết quả xổ số < 2 giây
 - Thời gian dò vé < 1 giây/vé
 - Ứng dụng phải hoạt động mượt mà trên các thiết bị có cấu hình trung bình
+- Thời gian áp dụng thay đổi giao diện phong thủy < 2 giây
 
 ### 6.2. Bảo mật
 
@@ -329,6 +371,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 - Dữ liệu người dùng được sao lưu định kỳ
 - Hệ thống phục hồi sau sự cố < 10 phút
 - Khả năng hoạt động offline với các tính năng cơ bản
+- Lưu trữ tùy chỉnh giao diện và menu yêu thích của người dùng không bị mất khi cập nhật ứng dụng
 
 ### 6.4. Khả năng sử dụng
 
@@ -337,6 +380,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 - Thiết kế responsive, tương thích với nhiều kích thước màn hình
 - Tuân thủ các nguyên tắc thiết kế Material Design
 - Thiết kế tối ưu cho thao tác một tay
+- Các theme phong thủy đảm bảo độ tương phản và khả năng đọc dễ dàng
 
 ### 6.5. Khả năng mở rộng
 
@@ -345,6 +389,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 - Hỗ trợ tối thiểu 100.000 người dùng đồng thời
 - Khả năng xử lý tăng trưởng dữ liệu 300% trong năm đầu tiên
 - Hỗ trợ đa ngôn ngữ (dự kiến bổ sung tiếng Anh trong tương lai)
+- Khả năng thêm mới các theme phong thủy và phong cách giao diện
 
 ### 6.6. Tương thích
 
@@ -352,6 +397,7 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 - Tối ưu cho các thiết bị phổ biến tại Việt Nam
 - Hoạt động tốt trên kết nối mạng không ổn định
 - Tương thích với các dịch vụ đám mây phổ biến
+- Đảm bảo các theme phong thủy hoạt động tốt trên mọi thiết bị được hỗ trợ
 
 ## 7. KIẾN TRÚC VÀ CÔNG NGHỆ
 
@@ -369,13 +415,20 @@ Trong thị trường các ứng dụng xổ số tại Việt Nam, Số Nào Ra
 ```
 users/
   {userId}/
-    profile: {name, email, phone, settings}
+    profile: {name, email, phone, birthYear, settings}
     tickets/
       {ticketId}: {type, numbers, date, status, result}
     notifications/
       {notificationId}: {type, message, date, read}
     saved_prompts/
       {promptId}: {name, text, description, created_at}
+    ui_preferences/
+      theme: {type, color, feng_shui_element}
+      mascots: [{id, position, visibility}]
+      favorites: {
+        menu_items: [{type, id, position}],
+        default_lottery_type: {type, id}
+      }
 
 ```
 
@@ -394,7 +447,7 @@ lottery_results/
 
 ```
 
-### 7.2.3. Dữ liệu phân tích
+### 7.2.3. Dữ liệu phân tích và cấu hình
 
 ```
 analytics/
@@ -405,6 +458,13 @@ analytics/
   templates/
     prompt_templates/
       {templateId}: {name, description, prompt_text, model_type}
+ui_configs/
+  themes/
+    {themeId}: {name, colors, assets, feng_shui_element}
+  mascots/
+    {mascotId}: {name, description, image_url, feng_shui_element}
+  lottery_types/
+    {typeId}: {name, description, region, icon_url}
 
 ```
 
@@ -422,6 +482,7 @@ analytics/
 - Lưu trữ vé số đã nhập trên thiết bị
 - Đồng bộ hóa dữ liệu khi có kết nối internet
 - Thông báo rõ ràng về trạng thái offline
+- Lưu trữ cục bộ các tùy chỉnh giao diện và menu yêu thích
 
 ## 8. GIAO DIỆN NGƯỜI DÙNG
 
@@ -429,9 +490,10 @@ analytics/
 
 - Đơn giản, trực quan, dễ sử dụng cho mọi lứa tuổi
 - Ưu tiên khả năng sử dụng hơn là thiết kế phức tạp
-- Tương thích với chế độ tối (dark mode)
+- Tương thích với chế độ tối (dark mode) và các theme phong thủy
 - Phông chữ rõ ràng, dễ đọc
 - Bố cục nhất quán giữa các màn hình
+- Các theme phong thủy đảm bảo thẩm mỹ và tính nhất quán
 
 ### 8.2. Sitemap và luồng người dùng
 
@@ -451,7 +513,14 @@ analytics/
     - Xuất dữ liệu
     - Quản lý prompt
     - Chia sẻ phân tích
-7. Cài đặt
+7. Menu yêu thích (sau MVP)
+    - Danh sách loại hình xổ số yêu thích
+    - Thiết lập loại hình mặc định
+8. Tùy chỉnh giao diện (sau MVP)
+    - Theme phong thủy
+    - Linh vật phong thủy
+    - Màu sắc và phong cách
+9. Cài đặt
     - Thông báo
     - Hồ sơ người dùng
     - Cài đặt ứng dụng
@@ -460,7 +529,7 @@ analytics/
 
 1. **Xem kết quả xổ số:**
     - Mở ứng dụng
-    - Chọn loại xổ số (miền Nam/Vietlott)
+    - Chọn loại xổ số (miền Nam/Vietlott) hoặc mở loại hình mặc định
     - Xem kết quả
 2. **Nhập và dò vé:**
     - Mở ứng dụng
@@ -469,7 +538,21 @@ analytics/
     - Nhập thông tin vé
     - Lưu vé
     - Hệ thống tự động dò khi có kết quả
-3. **Xuất dữ liệu để phân tích:**
+3. **Tùy chỉnh giao diện phong thủy:**
+    - Mở cài đặt
+    - Chọn "Tùy chỉnh giao diện"
+    - Nhập năm sinh hoặc chọn mệnh
+    - Chọn theme phong thủy phù hợp
+    - Tùy chọn thêm linh vật
+    - Áp dụng thay đổi
+4. **Thiết lập menu yêu thích:**
+    - Mở cài đặt
+    - Chọn "Menu yêu thích"
+    - Đánh dấu loại hình xổ số ưa thích
+    - Sắp xếp thứ tự hiển thị
+    - Chọn loại hình mặc định
+    - Lưu thay đổi
+5. **Xuất dữ liệu để phân tích:**
     - Mở màn hình kết quả xổ số
     - Mở menu Công cụ dữ liệu
     - Chọn khoảng thời gian
@@ -485,41 +568,45 @@ analytics/
 
 ### 9.1. Lộ trình phát triển MVP
 
-1. **Thiết kế UI/UX và kiến trúc hệ thống:** 20/03 - 27/03/2025 (1 tuần)
-2. **Xây dựng tính năng xem kết quả và lịch quay thưởng:** 28/03 - 10/04/2025 (2 tuần)
-3. **Phát triển tính năng đăng ký/đăng nhập và nhập vé thủ công:** 11/04 - 24/04/2025 (2 tuần)
-4. **Hoàn thiện tính năng dò vé và quản lý vé:** 25/04 - 01/05/2025 (1 tuần)
-5. **Testing và sửa lỗi:** 02/05 - 08/05/2025 (1 tuần)
-6. **Chuẩn bị phát hành:** 09/05 - 15/05/2025 (1 tuần)
-7. **Phát hành MVP:** 15/05/2025
+1. **Thiết kế UI/UX và kiến trúc hệ thống:** 20/03 - 27/03/2025 (1 tuần)
+2. **Xây dựng tính năng xem kết quả và lịch quay thưởng:** 28/03 - 10/04/2025 (2 tuần)
+3. **Phát triển tính năng đăng ký/đăng nhập và nhập vé thủ công:** 11/04 - 24/04/2025 (2 tuần)
+4. **Hoàn thiện tính năng dò vé và quản lý vé:** 25/04 - 01/05/2025 (1 tuần)
+5. **Testing và sửa lỗi:** 02/05 - 08/05/2025 (1 tuần)
+6. **Chuẩn bị phát hành:** 09/05 - 15/05/2025 (1 tuần)
+7. **Phát hành MVP:** 15/05/2025
 
 ### 9.2. Kế hoạch sau MVP
 
-1. **Phát triển tính năng OCR:** 16/05 - 15/06/2025 (1 tháng)
-2. **Phát triển tính năng xuất dữ liệu và tích hợp với công cụ phân tích:** 16/06 - 15/07/2025 (1 tháng)
-3. **Phát triển thống kê và biểu đồ trực quan:** 16/07 - 15/08/2025 (1 tháng)
-4. **Phát triển tính năng cộng đồng cơ bản:** 16/08 - 15/09/2025 (1 tháng)
-5. **Mở rộng hỗ trợ xổ số miền Trung và miền Bắc:** 16/09 - 15/10/2025 (1 tháng)
+1. **Phát triển tính năng OCR:** 16/05 - 15/06/2025 (1 tháng)
+2. **Phát triển tính năng tùy chỉnh giao diện phong thủy và menu yêu thích:** 16/06 - 15/07/2025 (1 tháng)
+3. **Phát triển tính năng xuất dữ liệu và tích hợp với công cụ phân tích:** 16/07 - 15/08/2025 (1 tháng)
+4. **Phát triển thống kê và biểu đồ trực quan:** 16/08 - 15/09/2025 (1 tháng)
+5. **Phát triển tính năng cộng đồng cơ bản:** 16/09 - 15/10/2025 (1 tháng)
+6. **Mở rộng hỗ trợ xổ số miền Trung và miền Bắc:** 16/10 - 15/11/2025 (1 tháng)
 
 ### 9.3. Kế hoạch testing
 
-- **Alpha Testing:** 25/04 - 01/05/2025 (nội bộ)
-- **Beta Testing:** 02/05 - 08/05/2025 (nhóm người dùng được chọn)
-- **UAT (User Acceptance Testing):** 09/05 - 12/05/2025
-- **Testing tự động:** Unit tests, Integration tests, UI tests
+- **Alpha Testing:** 25/04 - 01/05/2025 (nội bộ)
+- **Beta Testing:** 02/05 - 08/05/2025 (nhóm người dùng được chọn)
+- **UAT (User Acceptance Testing):** 09/05 - 12/05/2025
+- **Testing tự động:** Unit tests, Integration tests, UI tests
+- **Testing theme và UI tùy chỉnh:** Kiểm tra độ tương thích trên các thiết bị khác nhau
 
 ### 9.4. Kế hoạch phát hành
 
-- **Pre-launch Marketing:** 01/05 - 15/05/2025
-- **Phát hành:** 15/05/2025
-- **Theo dõi và phản hồi nhanh:** 15/05 - 31/05/2025
-- **Bản cập nhật đầu tiên:** 01/06/2025 (dự kiến bổ sung tính năng OCR)
+- **Pre-launch Marketing:** 01/05 - 15/05/2025
+- **Phát hành:** 15/05/2025
+- **Theo dõi và phản hồi nhanh:** 15/05 - 31/05/2025
+- **Bản cập nhật đầu tiên (OCR):** 01/06/2025
+- **Bản cập nhật thứ hai (UI phong thủy và menu yêu thích):** 15/07/2025
 
 ### 9.5. Chiến lược backup và chuyển đổi
 
 - Kiểm tra tự động trước mỗi lần triển khai
 - Khả năng rollback nhanh chóng khi có sự cố
 - Theo dõi chặt chẽ các chỉ số hiệu suất sau khi triển khai
+- Phát hành A/B testing cho tính năng giao diện phong thủy
 
 ## 10. RỦI RO VÀ GIẢI PHÁP GIẢM THIỂU
 
@@ -532,6 +619,7 @@ analytics/
 | Ổn định của hệ thống khi có nhiều người dùng | Trung bình | - Stress testing với lượng người dùng mô phỏng<br>- Thiết kế hệ thống có khả năng mở rộng<br>- Monitoring liên tục |
 | Bảo mật dữ liệu người dùng | Cao | - Tuân thủ các practices bảo mật tốt nhất<br>- Mã hóa dữ liệu<br>- Review code định kỳ |
 | Tích hợp với các API bên ngoài cho tính năng xuất dữ liệu | Trung bình | - Xây dựng adapter layer để dễ dàng chuyển đổi API<br>- Caching và retry mechanism<br>- Monitoring và alerting |
+| Hiệu suất khi thay đổi theme phong thủy | Trung bình | - Tối ưu assets và tài nguyên<br>- Pre-loading theme<br>- Compression hiệu quả |
 
 ### 10.2. Rủi ro kinh doanh
 
@@ -542,6 +630,7 @@ analytics/
 | Khó tiếp cận người dùng lớn tuổi | Cao | - Thiết kế giao diện đơn giản<br>- Tài liệu hướng dẫn chi tiết<br>- Hỗ trợ khách hàng chuyên nghiệp |
 | Người dùng không thấy giá trị của ứng dụng | Trung bình | - Truyền thông rõ giá trị cốt lõi<br>- Thu thập và phản hồi feedback sớm<br>- Cải thiện liên tục dựa trên dữ liệu thực tế |
 | Tính năng xuất dữ liệu không được sử dụng rộng rãi | Trung bình | - Giáo dục người dùng về lợi ích của phân tích dữ liệu<br>- Cung cấp ví dụ và hướng dẫn sử dụng<br>- Đơn giản hóa quy trình xuất và phân tích |
+| Tính năng phong thủy không được đánh giá cao | Trung bình | - Đảm bảo tính xác thực của thông tin phong thủy<br>- Thiết kế theme hấp dẫn và chuyên nghiệp<br>- Kết hợp các yếu tố truyền thống và hiện đại |
 
 ## 11. CHỈ SỐ THÀNH CÔNG (KPIs)
 
@@ -560,27 +649,32 @@ analytics/
 - 60% người dùng sử dụng ít nhất 3 tính năng chính
 - 30% người dùng thử nghiệm tính năng xuất dữ liệu sau 3 tháng ra mắt
 - Tỷ lệ người dùng hài lòng với tính năng xuất dữ liệu > 75%
+- Tỷ lệ sử dụng tính năng tùy chỉnh giao diện phong thủy > 40% sau khi ra mắt
+- Tỷ lệ người dùng thiết lập menu yêu thích > 50% trong số người dùng thường xuyên
 
 ### 11.3. KPI Marketing
 
 - Chi phí thu hút khách hàng (CAC) < 15.000 VNĐ/người dùng
 - Tỷ lệ chuyển đổi từ lượt xem quảng cáo > 3%
 - Tỷ lệ giới thiệu người dùng mới > 20%
+- Đánh giá tích cực về tính năng phong thủy trong các đánh giá ứng dụng > 30%
 
 ### 11.4. KPI Kinh doanh
 
 - Đạt top 10 ứng dụng xổ số trên App Store và Google Play trong vòng 3 tháng
 - Chuẩn bị tiền đề cho mô hình doanh thu trong tương lai
+- Tăng thời gian sử dụng ứng dụng thêm 20% sau khi ra mắt tính năng tùy chỉnh giao diện và menu yêu thích
 
 ## 12. LƯU Ý ĐẶC BIỆT VÀ RÀNG BUỘC
 
 ### 12.1. Ràng buộc pháp lý
 
-- **Loại bỏ tính năng mua vé trực tuyến:** Tính năng này sẽ KHÔNG được triển khai do yêu cầu sự cho phép từ cơ quan quản lý nhà nước, hiện tại chưa phù hợp để triển khai. Tính năng này được đưa vào danh sách "ngoài phạm vi" và sẽ chỉ được xem xét khi có sự cho phép rõ ràng từ cơ quan có thẩm quyền.
+- **Loại bỏ tính năng mua vé trực tuyến:** Tính năng này sẽ KHÔNG được triển khai do yêu cầu sự cho phép từ cơ quan quản lý nhà nước, hiện tại chưa phù hợp để triển khai. Tính năng này được đưa vào danh sách "ngoài phạm vi" và sẽ chỉ được xem xét khi có sự cho phép rõ ràng từ cơ quan có thẩm quyền.
 - Tuân thủ các quy định về hoạt động xổ số tại Việt Nam
 - Chỉ cung cấp thông tin kết quả xổ số chính thức
 - Tuân thủ quy định về quảng cáo và khuyến mãi
 - Đảm bảo rằng tính năng xuất dữ liệu không vi phạm bản quyền hay quy định về chia sẻ thông tin
+- Nội dung phong thủy cần được chuẩn bị cẩn thận, tránh các yếu tố mê tín dị đoan quá mức
 
 ### 12.2. Ràng buộc dự án
 
@@ -588,6 +682,7 @@ analytics/
 - Thời gian phát triển MVP: 8 tuần
 - Stack công nghệ: Flutter, Firebase
 - Ngân sách giới hạn cho marketing và phát triển ban đầu
+- Cần tham khảo ý kiến chuyên gia phong thủy cho tính năng tùy chỉnh giao diện theo phong thủy
 
 ### 12.3. Giả định
 
@@ -595,6 +690,7 @@ analytics/
 - Người dùng có kết nối internet cơ bản
 - API kết quả xổ số sẽ hoạt động ổn định và cung cấp dữ liệu chính xác
 - Các mô hình AI/LLM sẽ tiếp tục hỗ trợ phân tích dữ liệu xổ số thông qua prompt
+- Người dùng Việt Nam quan tâm đến yếu tố phong thủy và tính cá nhân hóa trong ứng dụng
 
 ## 13. PHỤ LỤC
 
@@ -618,6 +714,10 @@ analytics/
 
 *Sẽ được bổ sung trong quá trình phát triển tính năng*
 
+### 13.6. Bảng tham chiếu phong thủy
+
+*Sẽ được bổ sung sau khi tham khảo ý kiến chuyên gia phong thủy*
+
 ---
 
 **Phê duyệt bởi:**
@@ -628,4 +728,4 @@ Ngày: 20/03/2025
 
 Người phê duyệt: [Owner Name]
 
-Ngày: ***/***/2025
+Ngày: ***/***/2025
